@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/%20//muttuks.github.io/robofriends/static/css/main.18464243.chunk.css",
+    "main.js": "/%20//muttuks.github.io/robofriends/static/js/main.695eecb3.chunk.js",
+    "main.js.map": "/%20//muttuks.github.io/robofriends/static/js/main.695eecb3.chunk.js.map",
+    "runtime-main.js": "/%20//muttuks.github.io/robofriends/static/js/runtime-main.9a9e75ff.js",
+    "runtime-main.js.map": "/%20//muttuks.github.io/robofriends/static/js/runtime-main.9a9e75ff.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/%20//muttuks.github.io/robofriends/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.f9f5aa27.chunk.js": "/%20//muttuks.github.io/robofriends/static/js/2.f9f5aa27.chunk.js",
+    "static/js/2.f9f5aa27.chunk.js.map": "/%20//muttuks.github.io/robofriends/static/js/2.f9f5aa27.chunk.js.map",
+    "static/js/3.fea0799a.chunk.js": "/%20//muttuks.github.io/robofriends/static/js/3.fea0799a.chunk.js",
+    "static/js/3.fea0799a.chunk.js.map": "/%20//muttuks.github.io/robofriends/static/js/3.fea0799a.chunk.js.map",
+    "index.html": "/%20//muttuks.github.io/robofriends/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/%20//muttuks.github.io/robofriends/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.18464243.chunk.css.map": "/%20//muttuks.github.io/robofriends/static/css/main.18464243.chunk.css.map",
+    "static/js/2.f9f5aa27.chunk.js.LICENSE.txt": "/%20//muttuks.github.io/robofriends/static/js/2.f9f5aa27.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/%20//muttuks.github.io/robofriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a9e75ff.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.f9f5aa27.chunk.js",
+    "static/css/main.18464243.chunk.css",
+    "static/js/main.695eecb3.chunk.js"
+  ]
+}
